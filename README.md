@@ -22,7 +22,7 @@ npm install
 
 ## Menjalankan Aplikasi
 
-### Mode Development (Tanpa Firebase Authentication)
+### Mode Development 
 ```bash
 # Menggunakan yarn
 yarn dev
