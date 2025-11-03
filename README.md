@@ -11,7 +11,7 @@ Backend API untuk aplikasi Technical Test Junior FE .
 
 **Clone repository** (jika belum):
    ```bash
-   git clone https://github.com/username/technical-test-fe.git
+   git clone https://github.com/username/FE-PT-SGT.git
 
    cd technical-test-fe
    ```
